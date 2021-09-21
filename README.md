@@ -1,4 +1,4 @@
-# Heart-Disease-Classification-using-KNN
+# Heart-Disease-Classification
 Model to predict if a person suffers from heart disease or not using K-Nearest-Neighbor algorithm.
 
 ## How the code works?
